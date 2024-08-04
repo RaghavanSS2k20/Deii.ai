@@ -1,0 +1,883 @@
+{
+    "props": {
+        "pageProps": {
+            "query": {
+                "data": [
+                    {
+                        "eventId": 5661,
+                        "maxMark": 10,
+                        "courseId": "20XW97",
+                        "courseName": "COMPUTER VISION LAB",
+                        "addedOn": "2024-07-11T03:44:03.000Z",
+                        "targetDateTime": "2024-07-18T17:30:00.000Z",
+                        "title": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 1",
+                        "description": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 1\nUpload the file in zip or rar format. ",
+                        "addedBy": "C1931",
+                        "question": {
+                            "eventId": 5661,
+                            "resourceType": "question",
+                            "resourceId": 10296,
+                            "name": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 1",
+                            "type": "assignment",
+                            "tags": [],
+                            "details": {
+                                "size": "690",
+                                "fileId": "1_AZL1rVQqH0Quf6kZ6gzmahJ6HPU4N1V",
+                                "addedBy": "C1931",
+                                "addedOn": "2024-07-11T09:14:03.516Z",
+                                "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/text/plain",
+                                "mimeType": "text/plain",
+                                "isExternal": false,
+                                "previewLink": "https://drive.google.com/file/d/1_AZL1rVQqH0Quf6kZ6gzmahJ6HPU4N1V/view?usp=drivesdk",
+                                "downloadLink": "https://drive.google.com/uc?id=1_AZL1rVQqH0Quf6kZ6gzmahJ6HPU4N1V&export=download"
+                            }
+                        },
+                        "submissions": {
+                            "eventId": 5661,
+                            "rollNo": "20PW26",
+                            "name": "RAGHAVANKUMAR",
+                            "submissionDetails": {
+                                "name": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 1-20PW26",
+                                "details": {
+                                    "size": "5637130",
+                                    "fileId": "1NsMcxIEuGI-RDOCUFsYwvoME7GTArCQX",
+                                    "addedBy": "20PW26",
+                                    "addedOn": "2024-07-18T17:13:17.567Z",
+                                    "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/x-zip-compressed",
+                                    "mimeType": "application/x-zip-compressed",
+                                    "isExternal": false,
+                                    "previewLink": "https://drive.google.com/file/d/1NsMcxIEuGI-RDOCUFsYwvoME7GTArCQX/view?usp=drivesdk",
+                                    "downloadLink": "https://drive.google.com/uc?id=1NsMcxIEuGI-RDOCUFsYwvoME7GTArCQX&export=download"
+                                }
+                            },
+                            "grade": null,
+                            "submittedOn": "2024-07-18T11:43:17.000Z"
+                        }
+                    },
+                    {
+                        "eventId": 5666,
+                        "maxMark": 30,
+                        "courseId": "20XW98",
+                        "courseName": "FUNCTIONAL PROGRAMMING LAB",
+                        "addedOn": "2024-07-12T05:25:32.000Z",
+                        "targetDateTime": "2024-08-09T04:30:00.000Z",
+                        "title": "20XW98\tSOFTWARE TESTING LAB problemsheet ",
+                        "description": "20XW98\tSOFTWARE TESTING LAB problemsheet",
+                        "addedBy": "C6412",
+                        "question": {
+                            "eventId": 5666,
+                            "resourceType": "question",
+                            "resourceId": 10305,
+                            "name": "20XW98\tFUNCTIONAL PROGRAMMING LAB problemsheet",
+                            "type": "assignment",
+                            "tags": [
+                                "20XW98\tFUNCTIONAL PROGRAMMING LAB"
+                            ],
+                            "details": {
+                                "size": "60941",
+                                "fileId": "1KSjnDXSkyNoiKBnldlJLZEc9yObtzobE",
+                                "addedBy": "C6412",
+                                "addedOn": "2024-07-12T10:55:32.293Z",
+                                "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "isExternal": false,
+                                "previewLink": "https://docs.google.com/document/d/1KSjnDXSkyNoiKBnldlJLZEc9yObtzobE/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                                "downloadLink": "https://drive.google.com/uc?id=1KSjnDXSkyNoiKBnldlJLZEc9yObtzobE&export=download"
+                            }
+                        },
+                        "submissions": {
+                            "eventId": 5666,
+                            "rollNo": "20PW26",
+                            "name": "RAGHAVANKUMAR",
+                            "submissionDetails": {
+                                "name": "20XW98\tSOFTWARE TESTING LAB problemsheet-20PW26",
+                                "details": {
+                                    "size": "2234",
+                                    "fileId": "1UPCRFUunqv1rW_PRgmImytb_9eAwagpG",
+                                    "addedBy": "20PW26",
+                                    "addedOn": "2024-07-24T12:14:40.567Z",
+                                    "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/x-zip-compressed",
+                                    "mimeType": "application/x-zip-compressed",
+                                    "isExternal": false,
+                                    "previewLink": "https://drive.google.com/file/d/1UPCRFUunqv1rW_PRgmImytb_9eAwagpG/view?usp=drivesdk",
+                                    "downloadLink": "https://drive.google.com/uc?id=1UPCRFUunqv1rW_PRgmImytb_9eAwagpG&export=download"
+                                }
+                            },
+                            "grade": null,
+                            "submittedOn": "2024-07-24T06:44:40.000Z"
+                        }
+                    },
+                    {
+                        "eventId": 5667,
+                        "maxMark": 0,
+                        "courseId": "20XW96",
+                        "courseName": "DEEP LEARNING LAB",
+                        "addedOn": "2024-07-14T21:43:28.000Z",
+                        "targetDateTime": "2024-07-22T03:11:00.000Z",
+                        "title": "CLASSIFICATION AND REGRESSION USING PERCEPTRON",
+                        "description": "-",
+                        "addedBy": "C3027",
+                        "question": {
+                            "eventId": 5667,
+                            "resourceType": "question",
+                            "resourceId": 10307,
+                            "name": "CLASSIFICATION AND REGRESSION USING PERCEPTRON",
+                            "type": "assignment",
+                            "tags": [
+                                "CLASSIFICATION;"
+                            ],
+                            "details": {
+                                "size": "8504",
+                                "fileId": "1KEdVS3YIgom9ExYLfsIgOlVVaxvZAI0o",
+                                "addedBy": "C3027",
+                                "addedOn": "2024-07-15T03:13:28.133Z",
+                                "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "isExternal": false,
+                                "previewLink": "https://docs.google.com/document/d/1KEdVS3YIgom9ExYLfsIgOlVVaxvZAI0o/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                                "downloadLink": "https://drive.google.com/uc?id=1KEdVS3YIgom9ExYLfsIgOlVVaxvZAI0o&export=download"
+                            }
+                        },
+                        "submissions": {
+                            "eventId": 5667,
+                            "rollNo": "20PW26",
+                            "name": "RAGHAVANKUMAR",
+                            "submissionDetails": {},
+                            "grade": null,
+                            "submittedOn": null
+                        }
+                    },
+                    {
+                        "eventId": 5673,
+                        "maxMark": 10,
+                        "courseId": "20XW97",
+                        "courseName": "COMPUTER VISION LAB",
+                        "addedOn": "2024-07-17T23:02:35.000Z",
+                        "targetDateTime": "2024-07-25T17:30:00.000Z",
+                        "title": "20XW97 COMPUTER VISION  LAB TASK 2",
+                        "description": "20XW97 COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 2",
+                        "addedBy": "C1931",
+                        "question": {
+                            "eventId": 5673,
+                            "resourceType": "question",
+                            "resourceId": 10319,
+                            "name": "20XW97 COMPUTER VISION  LAB TASK 2",
+                            "type": "assignment",
+                            "tags": [],
+                            "details": {
+                                "size": "16093",
+                                "fileId": "1FHUmiaTkVWdE714qVdJpvjYEfSpXEnsP",
+                                "addedBy": "C1931",
+                                "addedOn": "2024-07-18T04:32:35.228Z",
+                                "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "isExternal": false,
+                                "previewLink": "https://docs.google.com/document/d/1FHUmiaTkVWdE714qVdJpvjYEfSpXEnsP/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                                "downloadLink": "https://drive.google.com/uc?id=1FHUmiaTkVWdE714qVdJpvjYEfSpXEnsP&export=download"
+                            }
+                        },
+                        "submissions": {
+                            "eventId": 5673,
+                            "rollNo": "20PW26",
+                            "name": "RAGHAVANKUMAR",
+                            "submissionDetails": {},
+                            "grade": null,
+                            "submittedOn": null
+                        }
+                    },
+                    {
+                        "eventId": 5688,
+                        "maxMark": 10,
+                        "courseId": "20XW98",
+                        "courseName": "FUNCTIONAL PROGRAMMING LAB",
+                        "addedOn": "2024-07-22T02:35:59.000Z",
+                        "targetDateTime": "2024-07-22T10:55:00.000Z",
+                        "title": "FUNCTIONAL PROGRAMMING LAB TEST I ",
+                        "description": "SUBMIT THE CODE AND OUTPUT AS  WORD DOCUMENT BEFORE 4:15pm\nFILE NAME SHOULD BE YOUR ROLL NUMBER Eg 20PW01.DOCX",
+                        "addedBy": "C6412",
+                        "question": {
+                            "eventId": 5688,
+                            "resourceType": "question",
+                            "resourceId": 10349,
+                            "name": "FUNCTIONAL PROGRAMMING LAB TEST I ",
+                            "type": "assignment",
+                            "tags": [
+                                "LABTEST"
+                            ],
+                            "details": {
+                                "size": "11957",
+                                "fileId": "1ACrlKPcqCFsie-DZTVJlhJbwW0aJ8rwW",
+                                "addedBy": "C6412",
+                                "addedOn": "2024-07-22T08:05:59.228Z",
+                                "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "isExternal": false,
+                                "previewLink": "https://docs.google.com/document/d/1ACrlKPcqCFsie-DZTVJlhJbwW0aJ8rwW/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                                "downloadLink": "https://drive.google.com/uc?id=1ACrlKPcqCFsie-DZTVJlhJbwW0aJ8rwW&export=download"
+                            }
+                        },
+                        "submissions": {
+                            "eventId": 5688,
+                            "rollNo": "20PW26",
+                            "name": "RAGHAVANKUMAR",
+                            "submissionDetails": {
+                                "name": "FUNCTIONAL PROGRAMMING LAB TEST I -20PW26",
+                                "details": {
+                                    "size": "30036",
+                                    "fileId": "14yUYqhA334uDUVkmtkZrOfre7pv29yCr",
+                                    "addedBy": "20PW26",
+                                    "addedOn": "2024-07-22T10:39:35.726Z",
+                                    "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                    "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                    "isExternal": false,
+                                    "previewLink": "https://docs.google.com/document/d/14yUYqhA334uDUVkmtkZrOfre7pv29yCr/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                                    "downloadLink": "https://drive.google.com/uc?id=14yUYqhA334uDUVkmtkZrOfre7pv29yCr&export=download"
+                                }
+                            },
+                            "grade": null,
+                            "submittedOn": "2024-07-22T05:09:35.000Z"
+                        }
+                    },
+                    {
+                        "eventId": 5692,
+                        "maxMark": 10,
+                        "courseId": "20XW92",
+                        "courseName": "SOFTWARE TESTING",
+                        "addedOn": "2024-07-24T08:29:45.000Z",
+                        "targetDateTime": "2024-08-02T04:45:00.000Z",
+                        "title": "SOFTWARE TESTING LAB TEST I",
+                        "description": "SOFTWARE TESTING LAB TEST I    :: SUBMIT YOUR CODE ALONG WITH TEST CASES AND OUTPUT ",
+                        "addedBy": "C6412",
+                        "question": {
+                            "eventId": 5692,
+                            "resourceType": "question",
+                            "resourceId": 10365,
+                            "name": "SOFTWARE TESTING LAB TEST I",
+                            "type": "assignment",
+                            "tags": [
+                                "SWTESTINGLABTEST"
+                            ],
+                            "details": {
+                                "size": "12017",
+                                "fileId": "1M2Pkf23Xa9dAH1rkeW8a8xzJRxGUjEGd",
+                                "addedBy": "C6412",
+                                "addedOn": "2024-07-24T09:48:26.858Z",
+                                "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "isExternal": false,
+                                "previewLink": "https://docs.google.com/document/d/1M2Pkf23Xa9dAH1rkeW8a8xzJRxGUjEGd/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                                "downloadLink": "https://drive.google.com/uc?id=1M2Pkf23Xa9dAH1rkeW8a8xzJRxGUjEGd&export=download"
+                            }
+                        },
+                        "submissions": {
+                            "eventId": 5692,
+                            "rollNo": "20PW26",
+                            "name": "RAGHAVANKUMAR",
+                            "submissionDetails": {},
+                            "grade": null,
+                            "submittedOn": null
+                        }
+                    },
+                    {
+                        "eventId": 5693,
+                        "maxMark": 10,
+                        "courseId": "20XW97",
+                        "courseName": "COMPUTER VISION LAB",
+                        "addedOn": "2024-07-25T05:42:33.000Z",
+                        "targetDateTime": "2024-08-06T17:30:00.000Z",
+                        "title": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 3",
+                        "description": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 3",
+                        "addedBy": "C1931",
+                        "question": {
+                            "eventId": 5693,
+                            "resourceType": "question",
+                            "resourceId": 10370,
+                            "name": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 3",
+                            "type": "assignment",
+                            "tags": [
+                                "COMPUTER VISION AND IMAGE ANALYSIS"
+                            ],
+                            "details": {
+                                "size": "199983",
+                                "fileId": "1ZawFoLlHyBlkWundqkDlfLHVaoiYVQ9A",
+                                "addedBy": "C1931",
+                                "addedOn": "2024-07-25T11:12:33.730Z",
+                                "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "isExternal": false,
+                                "previewLink": "https://docs.google.com/document/d/1ZawFoLlHyBlkWundqkDlfLHVaoiYVQ9A/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                                "downloadLink": "https://drive.google.com/uc?id=1ZawFoLlHyBlkWundqkDlfLHVaoiYVQ9A&export=download"
+                            }
+                        },
+                        "submissions": {
+                            "eventId": 5693,
+                            "rollNo": "20PW26",
+                            "name": "RAGHAVANKUMAR",
+                            "submissionDetails": {},
+                            "grade": null,
+                            "submittedOn": null
+                        }
+                    },
+                    {
+                        "eventId": 5708,
+                        "maxMark": 10,
+                        "courseId": "20XW98",
+                        "courseName": "FUNCTIONAL PROGRAMMING LAB",
+                        "addedOn": "2024-07-29T05:10:22.000Z",
+                        "targetDateTime": "2024-07-29T17:30:00.000Z",
+                        "title": "Functional Programming Lab PROBLEMSHEET 1",
+                        "description": "Functional Programming Lab PROBLEM SHEET 1",
+                        "addedBy": "C6412",
+                        "question": {
+                            "eventId": 5708,
+                            "resourceType": "question",
+                            "resourceId": 10394,
+                            "name": "Functional Programming Lab",
+                            "type": "assignment",
+                            "tags": [
+                                "Functional Programming Lab"
+                            ],
+                            "details": {
+                                "size": "15291",
+                                "fileId": "11H474gwU4KDYW8NsacnW4oOH47doMdBv",
+                                "addedBy": "C6412",
+                                "addedOn": "2024-07-29T10:40:22.892Z",
+                                "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "isExternal": false,
+                                "previewLink": "https://docs.google.com/document/d/11H474gwU4KDYW8NsacnW4oOH47doMdBv/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                                "downloadLink": "https://drive.google.com/uc?id=11H474gwU4KDYW8NsacnW4oOH47doMdBv&export=download"
+                            }
+                        },
+                        "submissions": {
+                            "eventId": 5708,
+                            "rollNo": "20PW26",
+                            "name": "RAGHAVANKUMAR",
+                            "submissionDetails": {
+                                "name": "Functional Programming Lab PROBLEMSHEET 1-20PW26",
+                                "details": {
+                                    "size": "84731",
+                                    "fileId": "1HjEZIvKG5EwBOEW8Izy4w3LWx5KdjRxV",
+                                    "addedBy": "20PW26",
+                                    "addedOn": "2024-07-29T15:46:11.847Z",
+                                    "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/pdf",
+                                    "mimeType": "application/pdf",
+                                    "isExternal": false,
+                                    "previewLink": "https://drive.google.com/file/d/1HjEZIvKG5EwBOEW8Izy4w3LWx5KdjRxV/view?usp=drivesdk",
+                                    "downloadLink": "https://drive.google.com/uc?id=1HjEZIvKG5EwBOEW8Izy4w3LWx5KdjRxV&export=download"
+                                }
+                            },
+                            "grade": null,
+                            "submittedOn": "2024-07-29T10:16:11.000Z"
+                        }
+                    },
+                    {
+                        "eventId": 5709,
+                        "maxMark": 10,
+                        "courseId": "20XW98",
+                        "courseName": "FUNCTIONAL PROGRAMMING LAB",
+                        "addedOn": "2024-07-29T05:13:17.000Z",
+                        "targetDateTime": "2024-08-05T17:30:00.000Z",
+                        "title": "Functional Programming Lab PROBLEMSHEET 2",
+                        "description": "Functional Programming Lab PROBLEMSHEET 2",
+                        "addedBy": "C6412",
+                        "question": {
+                            "eventId": 5709,
+                            "resourceType": "question",
+                            "resourceId": 10395,
+                            "name": "Functional Programming Lab PROBLEMSHEET 2",
+                            "type": "assignment",
+                            "tags": [
+                                "Functional Programming Lab PROBLEMSHEET 2"
+                            ],
+                            "details": {
+                                "size": "15976",
+                                "fileId": "1rlJoinNVOWZcRnV-3LS6GLaPJp21jy0l",
+                                "addedBy": "C6412",
+                                "addedOn": "2024-07-29T10:43:17.235Z",
+                                "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                                "isExternal": false,
+                                "previewLink": "https://docs.google.com/document/d/1rlJoinNVOWZcRnV-3LS6GLaPJp21jy0l/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                                "downloadLink": "https://drive.google.com/uc?id=1rlJoinNVOWZcRnV-3LS6GLaPJp21jy0l&export=download"
+                            }
+                        },
+                        "submissions": {
+                            "eventId": 5709,
+                            "rollNo": "20PW26",
+                            "name": "RAGHAVANKUMAR",
+                            "submissionDetails": {},
+                            "grade": null,
+                            "submittedOn": null
+                        }
+                    }
+                ],
+                "userDetails": {
+                    "id": "20PW26",
+                    "roles": [
+                        "student"
+                    ],
+                    "firstName": "RAGHAVAN",
+                    "lastName": "KUMAR",
+                    "email": "20PW26@psgtech.ac.in",
+                    "mobileNo": "9345796881",
+                    "classId": "20PW",
+                    "year": 2017,
+                    "programmeCode": "DS",
+                    "courses": {
+                        "core": [
+                            "20XW91",
+                            "20XW92",
+                            "20XW93",
+                            "20XW96",
+                            "20XW97",
+                            "20XW98"
+                        ],
+                        "elective": []
+                    }
+                }
+            }
+        }
+    },
+    "page": "/assignments",
+    "query": {
+        "data": [
+            {
+                "eventId": 5661,
+                "maxMark": 10,
+                "courseId": "20XW97",
+                "courseName": "COMPUTER VISION LAB",
+                "addedOn": "2024-07-11T03:44:03.000Z",
+                "targetDateTime": "2024-07-18T17:30:00.000Z",
+                "title": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 1",
+                "description": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 1\nUpload the file in zip or rar format. ",
+                "addedBy": "C1931",
+                "question": {
+                    "eventId": 5661,
+                    "resourceType": "question",
+                    "resourceId": 10296,
+                    "name": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 1",
+                    "type": "assignment",
+                    "tags": [],
+                    "details": {
+                        "size": "690",
+                        "fileId": "1_AZL1rVQqH0Quf6kZ6gzmahJ6HPU4N1V",
+                        "addedBy": "C1931",
+                        "addedOn": "2024-07-11T09:14:03.516Z",
+                        "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/text/plain",
+                        "mimeType": "text/plain",
+                        "isExternal": false,
+                        "previewLink": "https://drive.google.com/file/d/1_AZL1rVQqH0Quf6kZ6gzmahJ6HPU4N1V/view?usp=drivesdk",
+                        "downloadLink": "https://drive.google.com/uc?id=1_AZL1rVQqH0Quf6kZ6gzmahJ6HPU4N1V&export=download"
+                    }
+                },
+                "submissions": {
+                    "eventId": 5661,
+                    "rollNo": "20PW26",
+                    "name": "RAGHAVANKUMAR",
+                    "submissionDetails": {
+                        "name": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 1-20PW26",
+                        "details": {
+                            "size": "5637130",
+                            "fileId": "1NsMcxIEuGI-RDOCUFsYwvoME7GTArCQX",
+                            "addedBy": "20PW26",
+                            "addedOn": "2024-07-18T17:13:17.567Z",
+                            "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/x-zip-compressed",
+                            "mimeType": "application/x-zip-compressed",
+                            "isExternal": false,
+                            "previewLink": "https://drive.google.com/file/d/1NsMcxIEuGI-RDOCUFsYwvoME7GTArCQX/view?usp=drivesdk",
+                            "downloadLink": "https://drive.google.com/uc?id=1NsMcxIEuGI-RDOCUFsYwvoME7GTArCQX&export=download"
+                        }
+                    },
+                    "grade": null,
+                    "submittedOn": "2024-07-18T11:43:17.000Z"
+                }
+            },
+            {
+                "eventId": 5666,
+                "maxMark": 30,
+                "courseId": "20XW98",
+                "courseName": "FUNCTIONAL PROGRAMMING LAB",
+                "addedOn": "2024-07-12T05:25:32.000Z",
+                "targetDateTime": "2024-08-09T04:30:00.000Z",
+                "title": "20XW98\tSOFTWARE TESTING LAB problemsheet ",
+                "description": "20XW98\tSOFTWARE TESTING LAB problemsheet",
+                "addedBy": "C6412",
+                "question": {
+                    "eventId": 5666,
+                    "resourceType": "question",
+                    "resourceId": 10305,
+                    "name": "20XW98\tFUNCTIONAL PROGRAMMING LAB problemsheet",
+                    "type": "assignment",
+                    "tags": [
+                        "20XW98\tFUNCTIONAL PROGRAMMING LAB"
+                    ],
+                    "details": {
+                        "size": "60941",
+                        "fileId": "1KSjnDXSkyNoiKBnldlJLZEc9yObtzobE",
+                        "addedBy": "C6412",
+                        "addedOn": "2024-07-12T10:55:32.293Z",
+                        "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "isExternal": false,
+                        "previewLink": "https://docs.google.com/document/d/1KSjnDXSkyNoiKBnldlJLZEc9yObtzobE/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                        "downloadLink": "https://drive.google.com/uc?id=1KSjnDXSkyNoiKBnldlJLZEc9yObtzobE&export=download"
+                    }
+                },
+                "submissions": {
+                    "eventId": 5666,
+                    "rollNo": "20PW26",
+                    "name": "RAGHAVANKUMAR",
+                    "submissionDetails": {
+                        "name": "20XW98\tSOFTWARE TESTING LAB problemsheet-20PW26",
+                        "details": {
+                            "size": "2234",
+                            "fileId": "1UPCRFUunqv1rW_PRgmImytb_9eAwagpG",
+                            "addedBy": "20PW26",
+                            "addedOn": "2024-07-24T12:14:40.567Z",
+                            "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/x-zip-compressed",
+                            "mimeType": "application/x-zip-compressed",
+                            "isExternal": false,
+                            "previewLink": "https://drive.google.com/file/d/1UPCRFUunqv1rW_PRgmImytb_9eAwagpG/view?usp=drivesdk",
+                            "downloadLink": "https://drive.google.com/uc?id=1UPCRFUunqv1rW_PRgmImytb_9eAwagpG&export=download"
+                        }
+                    },
+                    "grade": null,
+                    "submittedOn": "2024-07-24T06:44:40.000Z"
+                }
+            },
+            {
+                "eventId": 5667,
+                "maxMark": 0,
+                "courseId": "20XW96",
+                "courseName": "DEEP LEARNING LAB",
+                "addedOn": "2024-07-14T21:43:28.000Z",
+                "targetDateTime": "2024-07-22T03:11:00.000Z",
+                "title": "CLASSIFICATION AND REGRESSION USING PERCEPTRON",
+                "description": "-",
+                "addedBy": "C3027",
+                "question": {
+                    "eventId": 5667,
+                    "resourceType": "question",
+                    "resourceId": 10307,
+                    "name": "CLASSIFICATION AND REGRESSION USING PERCEPTRON",
+                    "type": "assignment",
+                    "tags": [
+                        "CLASSIFICATION;"
+                    ],
+                    "details": {
+                        "size": "8504",
+                        "fileId": "1KEdVS3YIgom9ExYLfsIgOlVVaxvZAI0o",
+                        "addedBy": "C3027",
+                        "addedOn": "2024-07-15T03:13:28.133Z",
+                        "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "isExternal": false,
+                        "previewLink": "https://docs.google.com/document/d/1KEdVS3YIgom9ExYLfsIgOlVVaxvZAI0o/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                        "downloadLink": "https://drive.google.com/uc?id=1KEdVS3YIgom9ExYLfsIgOlVVaxvZAI0o&export=download"
+                    }
+                },
+                "submissions": {
+                    "eventId": 5667,
+                    "rollNo": "20PW26",
+                    "name": "RAGHAVANKUMAR",
+                    "submissionDetails": {},
+                    "grade": null,
+                    "submittedOn": null
+                }
+            },
+            {
+                "eventId": 5673,
+                "maxMark": 10,
+                "courseId": "20XW97",
+                "courseName": "COMPUTER VISION LAB",
+                "addedOn": "2024-07-17T23:02:35.000Z",
+                "targetDateTime": "2024-07-25T17:30:00.000Z",
+                "title": "20XW97 COMPUTER VISION  LAB TASK 2",
+                "description": "20XW97 COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 2",
+                "addedBy": "C1931",
+                "question": {
+                    "eventId": 5673,
+                    "resourceType": "question",
+                    "resourceId": 10319,
+                    "name": "20XW97 COMPUTER VISION  LAB TASK 2",
+                    "type": "assignment",
+                    "tags": [],
+                    "details": {
+                        "size": "16093",
+                        "fileId": "1FHUmiaTkVWdE714qVdJpvjYEfSpXEnsP",
+                        "addedBy": "C1931",
+                        "addedOn": "2024-07-18T04:32:35.228Z",
+                        "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "isExternal": false,
+                        "previewLink": "https://docs.google.com/document/d/1FHUmiaTkVWdE714qVdJpvjYEfSpXEnsP/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                        "downloadLink": "https://drive.google.com/uc?id=1FHUmiaTkVWdE714qVdJpvjYEfSpXEnsP&export=download"
+                    }
+                },
+                "submissions": {
+                    "eventId": 5673,
+                    "rollNo": "20PW26",
+                    "name": "RAGHAVANKUMAR",
+                    "submissionDetails": {},
+                    "grade": null,
+                    "submittedOn": null
+                }
+            },
+            {
+                "eventId": 5688,
+                "maxMark": 10,
+                "courseId": "20XW98",
+                "courseName": "FUNCTIONAL PROGRAMMING LAB",
+                "addedOn": "2024-07-22T02:35:59.000Z",
+                "targetDateTime": "2024-07-22T10:55:00.000Z",
+                "title": "FUNCTIONAL PROGRAMMING LAB TEST I ",
+                "description": "SUBMIT THE CODE AND OUTPUT AS  WORD DOCUMENT BEFORE 4:15pm\nFILE NAME SHOULD BE YOUR ROLL NUMBER Eg 20PW01.DOCX",
+                "addedBy": "C6412",
+                "question": {
+                    "eventId": 5688,
+                    "resourceType": "question",
+                    "resourceId": 10349,
+                    "name": "FUNCTIONAL PROGRAMMING LAB TEST I ",
+                    "type": "assignment",
+                    "tags": [
+                        "LABTEST"
+                    ],
+                    "details": {
+                        "size": "11957",
+                        "fileId": "1ACrlKPcqCFsie-DZTVJlhJbwW0aJ8rwW",
+                        "addedBy": "C6412",
+                        "addedOn": "2024-07-22T08:05:59.228Z",
+                        "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "isExternal": false,
+                        "previewLink": "https://docs.google.com/document/d/1ACrlKPcqCFsie-DZTVJlhJbwW0aJ8rwW/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                        "downloadLink": "https://drive.google.com/uc?id=1ACrlKPcqCFsie-DZTVJlhJbwW0aJ8rwW&export=download"
+                    }
+                },
+                "submissions": {
+                    "eventId": 5688,
+                    "rollNo": "20PW26",
+                    "name": "RAGHAVANKUMAR",
+                    "submissionDetails": {
+                        "name": "FUNCTIONAL PROGRAMMING LAB TEST I -20PW26",
+                        "details": {
+                            "size": "30036",
+                            "fileId": "14yUYqhA334uDUVkmtkZrOfre7pv29yCr",
+                            "addedBy": "20PW26",
+                            "addedOn": "2024-07-22T10:39:35.726Z",
+                            "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "isExternal": false,
+                            "previewLink": "https://docs.google.com/document/d/14yUYqhA334uDUVkmtkZrOfre7pv29yCr/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                            "downloadLink": "https://drive.google.com/uc?id=14yUYqhA334uDUVkmtkZrOfre7pv29yCr&export=download"
+                        }
+                    },
+                    "grade": null,
+                    "submittedOn": "2024-07-22T05:09:35.000Z"
+                }
+            },
+            {
+                "eventId": 5692,
+                "maxMark": 10,
+                "courseId": "20XW92",
+                "courseName": "SOFTWARE TESTING",
+                "addedOn": "2024-07-24T08:29:45.000Z",
+                "targetDateTime": "2024-08-02T04:45:00.000Z",
+                "title": "SOFTWARE TESTING LAB TEST I",
+                "description": "SOFTWARE TESTING LAB TEST I    :: SUBMIT YOUR CODE ALONG WITH TEST CASES AND OUTPUT ",
+                "addedBy": "C6412",
+                "question": {
+                    "eventId": 5692,
+                    "resourceType": "question",
+                    "resourceId": 10365,
+                    "name": "SOFTWARE TESTING LAB TEST I",
+                    "type": "assignment",
+                    "tags": [
+                        "SWTESTINGLABTEST"
+                    ],
+                    "details": {
+                        "size": "12017",
+                        "fileId": "1M2Pkf23Xa9dAH1rkeW8a8xzJRxGUjEGd",
+                        "addedBy": "C6412",
+                        "addedOn": "2024-07-24T09:48:26.858Z",
+                        "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "isExternal": false,
+                        "previewLink": "https://docs.google.com/document/d/1M2Pkf23Xa9dAH1rkeW8a8xzJRxGUjEGd/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                        "downloadLink": "https://drive.google.com/uc?id=1M2Pkf23Xa9dAH1rkeW8a8xzJRxGUjEGd&export=download"
+                    }
+                },
+                "submissions": {
+                    "eventId": 5692,
+                    "rollNo": "20PW26",
+                    "name": "RAGHAVANKUMAR",
+                    "submissionDetails": {},
+                    "grade": null,
+                    "submittedOn": null
+                }
+            },
+            {
+                "eventId": 5693,
+                "maxMark": 10,
+                "courseId": "20XW97",
+                "courseName": "COMPUTER VISION LAB",
+                "addedOn": "2024-07-25T05:42:33.000Z",
+                "targetDateTime": "2024-08-06T17:30:00.000Z",
+                "title": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 3",
+                "description": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 3",
+                "addedBy": "C1931",
+                "question": {
+                    "eventId": 5693,
+                    "resourceType": "question",
+                    "resourceId": 10370,
+                    "name": "COMPUTER VISION AND IMAGE ANALYSIS LAB TASK 3",
+                    "type": "assignment",
+                    "tags": [
+                        "COMPUTER VISION AND IMAGE ANALYSIS"
+                    ],
+                    "details": {
+                        "size": "199983",
+                        "fileId": "1ZawFoLlHyBlkWundqkDlfLHVaoiYVQ9A",
+                        "addedBy": "C1931",
+                        "addedOn": "2024-07-25T11:12:33.730Z",
+                        "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "isExternal": false,
+                        "previewLink": "https://docs.google.com/document/d/1ZawFoLlHyBlkWundqkDlfLHVaoiYVQ9A/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                        "downloadLink": "https://drive.google.com/uc?id=1ZawFoLlHyBlkWundqkDlfLHVaoiYVQ9A&export=download"
+                    }
+                },
+                "submissions": {
+                    "eventId": 5693,
+                    "rollNo": "20PW26",
+                    "name": "RAGHAVANKUMAR",
+                    "submissionDetails": {},
+                    "grade": null,
+                    "submittedOn": null
+                }
+            },
+            {
+                "eventId": 5708,
+                "maxMark": 10,
+                "courseId": "20XW98",
+                "courseName": "FUNCTIONAL PROGRAMMING LAB",
+                "addedOn": "2024-07-29T05:10:22.000Z",
+                "targetDateTime": "2024-07-29T17:30:00.000Z",
+                "title": "Functional Programming Lab PROBLEMSHEET 1",
+                "description": "Functional Programming Lab PROBLEM SHEET 1",
+                "addedBy": "C6412",
+                "question": {
+                    "eventId": 5708,
+                    "resourceType": "question",
+                    "resourceId": 10394,
+                    "name": "Functional Programming Lab",
+                    "type": "assignment",
+                    "tags": [
+                        "Functional Programming Lab"
+                    ],
+                    "details": {
+                        "size": "15291",
+                        "fileId": "11H474gwU4KDYW8NsacnW4oOH47doMdBv",
+                        "addedBy": "C6412",
+                        "addedOn": "2024-07-29T10:40:22.892Z",
+                        "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "isExternal": false,
+                        "previewLink": "https://docs.google.com/document/d/11H474gwU4KDYW8NsacnW4oOH47doMdBv/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                        "downloadLink": "https://drive.google.com/uc?id=11H474gwU4KDYW8NsacnW4oOH47doMdBv&export=download"
+                    }
+                },
+                "submissions": {
+                    "eventId": 5708,
+                    "rollNo": "20PW26",
+                    "name": "RAGHAVANKUMAR",
+                    "submissionDetails": {
+                        "name": "Functional Programming Lab PROBLEMSHEET 1-20PW26",
+                        "details": {
+                            "size": "84731",
+                            "fileId": "1HjEZIvKG5EwBOEW8Izy4w3LWx5KdjRxV",
+                            "addedBy": "20PW26",
+                            "addedOn": "2024-07-29T15:46:11.847Z",
+                            "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/pdf",
+                            "mimeType": "application/pdf",
+                            "isExternal": false,
+                            "previewLink": "https://drive.google.com/file/d/1HjEZIvKG5EwBOEW8Izy4w3LWx5KdjRxV/view?usp=drivesdk",
+                            "downloadLink": "https://drive.google.com/uc?id=1HjEZIvKG5EwBOEW8Izy4w3LWx5KdjRxV&export=download"
+                        }
+                    },
+                    "grade": null,
+                    "submittedOn": "2024-07-29T10:16:11.000Z"
+                }
+            },
+            {
+                "eventId": 5709,
+                "maxMark": 10,
+                "courseId": "20XW98",
+                "courseName": "FUNCTIONAL PROGRAMMING LAB",
+                "addedOn": "2024-07-29T05:13:17.000Z",
+                "targetDateTime": "2024-08-05T17:30:00.000Z",
+                "title": "Functional Programming Lab PROBLEMSHEET 2",
+                "description": "Functional Programming Lab PROBLEMSHEET 2",
+                "addedBy": "C6412",
+                "question": {
+                    "eventId": 5709,
+                    "resourceType": "question",
+                    "resourceId": 10395,
+                    "name": "Functional Programming Lab PROBLEMSHEET 2",
+                    "type": "assignment",
+                    "tags": [
+                        "Functional Programming Lab PROBLEMSHEET 2"
+                    ],
+                    "details": {
+                        "size": "15976",
+                        "fileId": "1rlJoinNVOWZcRnV-3LS6GLaPJp21jy0l",
+                        "addedBy": "C6412",
+                        "addedOn": "2024-07-29T10:43:17.235Z",
+                        "iconLink": "https://drive-thirdparty.googleusercontent.com/16/type/application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "isExternal": false,
+                        "previewLink": "https://docs.google.com/document/d/1rlJoinNVOWZcRnV-3LS6GLaPJp21jy0l/edit?usp=drivesdk&ouid=113850424941586346116&rtpof=true&sd=true",
+                        "downloadLink": "https://drive.google.com/uc?id=1rlJoinNVOWZcRnV-3LS6GLaPJp21jy0l&export=download"
+                    }
+                },
+                "submissions": {
+                    "eventId": 5709,
+                    "rollNo": "20PW26",
+                    "name": "RAGHAVANKUMAR",
+                    "submissionDetails": {},
+                    "grade": null,
+                    "submittedOn": null
+                }
+            }
+        ],
+        "userDetails": {
+            "id": "20PW26",
+            "roles": [
+                "student"
+            ],
+            "firstName": "RAGHAVAN",
+            "lastName": "KUMAR",
+            "email": "20PW26@psgtech.ac.in",
+            "mobileNo": "9345796881",
+            "classId": "20PW",
+            "year": 2017,
+            "programmeCode": "DS",
+            "courses": {
+                "core": [
+                    "20XW91",
+                    "20XW92",
+                    "20XW93",
+                    "20XW96",
+                    "20XW97",
+                    "20XW98"
+                ],
+                "elective": []
+            }
+        }
+    },
+    "buildId": "AFrlhGOdvVg4cRpRx6qFI",
+    "isFallback": false,
+    "customServer": true,
+    "gip": true
+}
