@@ -30,5 +30,3 @@ if response == "get_unsubmitted_tasks":
         print("something is terribly wrong")
 # if(tasks):
     
-
-    
