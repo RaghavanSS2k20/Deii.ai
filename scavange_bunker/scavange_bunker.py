@@ -9,7 +9,7 @@ template_page = Blueprint("template_app", __name__, template_folder="templates")
 
 # For static
 def get_data():
-    if request.method == "GET":
+    
         username = "20pw26"
         pwd = "03mar02"
 
@@ -44,29 +44,29 @@ def get_data():
             #     last_date_updated=last_date_updated,
             # )
             print(attendance)
-            return jsonify(
-                {
-                   "msg":"pass",
+            return{
+                    "msg":"pass",
                     "data": attendance_dict,
                     "time_table": time_table,
                     "last_date_updated": last_date_updated,
                 }
-            ),200
+            
 
         except (ScrappingError, InvalidUsernameOrPasswordException) as error:
             return jsonify({
                 "error":error
             }),400
 
-    return jsonify({
-        "msg":"Falied"
-    }),500
+    # return jsonify({
+    #     "msg":"Falied"
+    # }),500
 
 import scavange_bunker.bunker_bot as bk
 
 
-def send_attendance(username: str, pwd: str):
-    
+def send_attendance():
+        username = "20pw26"
+        pwd = "03mar02"
         try:
             try:
                 table, session = bk.return_attendance(username, pwd)

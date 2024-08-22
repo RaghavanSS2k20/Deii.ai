@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 url = "https://nucleus.amcspsgtech.in/"
-
+from datetime import datetime
 def login(data):
     authUrl = url+"oauth"
     try:
@@ -56,19 +56,22 @@ def get_unsubmitted_tasks():
             - description: A list of color names
             - no params needed
     """
-
+    today = datetime.utcnow()
     tasks = getData()
     tasks = tasks["props"]["pageProps"]["query"]["data"]
+   
     if tasks:
+        print(tasks[0]["targetDateTime"])
         return [
             {
                 "name" : task["title"],
                 "description" : task["description"],
                 "deadline":task["targetDateTime"],
-                "courseName" : task["courseName"]
+                "courseName" : task["courseName"],
+                "daysRemaining": (datetime.strptime(task["targetDateTime"], "%Y-%m-%dT%H:%M:%S.%fZ") - today).days
             } 
             for task in tasks if task["submissions"]["submittedOn"] is None]
+        # return []
     else:
         return []
-
 
