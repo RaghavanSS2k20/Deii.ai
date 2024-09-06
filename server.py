@@ -12,14 +12,24 @@ app = Flask(__name__)
 CORS(app,supports_credentials=True)
 socketio = SocketIO(app, cors_allowed_origins='*')
 from scavange_bunker.scavange_bunker import get_data, send_attendance
-@app.route('/', methods=['POST'])
-@cross_origin()
-def perform_task():
-    query = request.get_json().get('prompt')
-    for response in slave(llm, query):
+@socketio.on('perform_task')  # Define a Socket.IO event
+def handle_perform_task(data):
+    query = data.get('prompt')  # Get the prompt from the data
+    if not query:
+        emit('response', {'error': 'No prompt provided'})  # Send error back to client
+        return
+
+    # Call the slave function to process the prompt
+    for response in slave(llm, query):  # Call slave and iterate over the yielded responses
         emit('response', {'content': response})  # Emit each part of the response to the client
-    
-    return jsonify({'status': 'Processing started'}), 202  # Return a
+
+@socketio.on('connect')
+def handle_connect():
+    print('Client connected')
+
+@socketio.on('disconnect')
+def handle_disconnect():
+    print('Client disconnected')
 
 
 if __name__ == '__main__':
