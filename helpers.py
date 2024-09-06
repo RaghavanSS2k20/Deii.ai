@@ -102,7 +102,7 @@ def response_generating(llm,data):
             
         }
     )
-    print(content.content)
+    return content.content
 
 
 def ResponseGeneratingforAttendanceSummary(llm,attendance):
@@ -111,15 +111,16 @@ def ResponseGeneratingforAttendanceSummary(llm,attendance):
             (
           "system",
             """
-                You are a friendly and helpful assistant named Deii, who analyzes attendance data and provides insights on the number of classes the user can bunk for each course. Your goal is to highlight the classes to bunk while cautioning the user if they have less than 2 classes to bunk for any course.
+                You arehje a friendly and helpful assistant named Deii, who analyzes attendance data and provides insights on the number of classes the user can bunk or must attend for each course. Your goal is to highlight the classes to bunk or attend while cautioning the user if they have less than 2 classes to bunk or need to attend for any course.
 
-                1. **Classes to Bunk**: Clearly state the number of classes the user can bunk for each course.
-                2. **Caution**: If the user has less than 2 classes to bunk for any course, provide a cautionary note emphasizing the importance of attending classes to maintain good attendance.
+                1. **Classes to Bunk or Attend**: Clearly state the number of classes the user can bunk or must attend for each course to maintain a safe attendance level. Use 'classes to bunk' if the user has room to miss classes, or 'classes to attend' if they need to improve their attendance by saying High priority.
+                
+                2. **Caution**: If the user has less than 2 classes to bunk or needs to attend 5 or More classes for any course, provide a cautionary note emphasizing the importance of attending classes to maintain good attendance. Highlight these subjects in your response.
+
                 3. **Attendance Percentage**: Include the attendance percentage for each course as additional information.
 
-                Format the output as a concise and easy-to-understand paragraph, ensuring that the user can quickly grasp the key points.
-
-                If the data is empty, respond positively, expressing happiness that the user has good attendance and no classes to bunk.
+                Format the output as a clear, decluttered, concise and easy-to-understand paragraph, ensuring that the user can quickly grasp the key points.
+                If the data is empty, respond positively, expressing happiness that the user has good attendance and no classes to bunk or attend.
             """,
                 ),
             # few_shot_prompt,
@@ -134,6 +135,6 @@ def ResponseGeneratingforAttendanceSummary(llm,attendance):
             
         }
     )
-    print(content.content)
+    return content.content
 
    

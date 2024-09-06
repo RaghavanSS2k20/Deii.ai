@@ -11,7 +11,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from helpers import query_understanding,response_generating, ResponseGeneratingforAttendanceSummary
 from hacknucleus import get_unsubmitted_tasks
 from scavange_bunker import get_data
-
+# from  flask_socketio import yield
 llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-pro",
     temperature=0,
@@ -20,24 +20,26 @@ llm = ChatGoogleGenerativeAI(
     max_retries=2,
     # other params...
 )
-response = query_understanding(llm,"Deii Whats the update on my attendance?")
-print(response)
-tasks = None
-if response == "get_unsubmitted_tasks":
-    tasks = get_unsubmitted_tasks()
-    if(tasks):
-        # print(tasks)
-        response_generating(llm,tasks)
-    else:
-        response_generating(llm,tasks)
-        # print("something is terribly wrong")
-elif response ==  "attendance_summary":
-    attendance = get_data()
-    print(attendance)
-    if attendance:
-       ResponseGeneratingforAttendanceSummary(llm,attendance)
-    else:
-        ResponseGeneratingforAttendanceSummary(llm,attendance)
-    
+
+def slave(llm, prompt):
+    response = query_understanding(llm,prompt)
+    print(response)
+    tasks = None
+    if response == "get_unsubmitted_tasks":
+        tasks = get_unsubmitted_tasks()
+        if(tasks):
+            # print(tasks)
+            yield response_generating(llm,tasks)
+        else:
+           yield  response_generating(llm,tasks)
+            # print("something is terribly wrong")
+    elif response ==  "attendance_summary":
+        attendance = get_data()
+        print(attendance)
+        if attendance:
+          yield ResponseGeneratingforAttendanceSummary(llm,attendance)
+        else:
+           yield  ResponseGeneratingforAttendanceSummary(llm,attendance)
+        
 # if(tasks):
     
